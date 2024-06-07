@@ -1,46 +1,50 @@
-# Hi, I'm Heiwa! 👋
+@@ -1,23 +1,32 @@
+#
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=6c0-o.6c0-o" />
+<div>
+<br/>
+<img src="https://media.discordapp.net/attachments/1095383942565220524/1105576844952084550/banner_1.png"/>
+<br/>
+<div align="center"><img src="https://media.discordapp.net/attachments/1230310861227425823/1244735351885533324/XLqhd3E.png?ex=665631a1&is=6654e021&hm=a8097cebe6a3b049fad6fd9bb816d247997ee415649ee97ca4a53373835f3755&=&format=webp&quality=lossless&width=850&height=300"/></div>
+<br/>
+<h3 align="center">A passionate developer from France <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
+<div align="center">I'm actually working on an own made <a href="https://spy.pet/">spy.pet</a></div>
+</div>
 
-A passionate developer from France ![French developer](https://camo.githubusercontent.com/3246867a325367cf44dd964a3874c08f347a163097bc1e7acfc7a157e72e8293/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f313233333131333735393130333435313230372e77656270) 🇫🇷
+## Repositery
+- 📘 [***6c0-o/HeaderHelp***](https://github.com/6c0-o/HeaderHelp) <br/>
+  For make beautiful header
+- 📒 [***6c0-o/HudPlus***](https://github.com/6c0-o/HudPlus) <br/>
+  A little client-side fabric mod for add many things
+- 📕 [***FavenTeam/minestratorapi.js***](https://github.com/FavenTeam/minestratorapi.js) <br/>
+  An unofficial Minestrator API
+## Discord
+<a href="https://discord.com/users/162278150863060992"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/162278150863060992">
+  </a>
 
-👨‍💻 Application developer on Discord
+## Thanks for reading
+<h2>Commits</h2>
+<br>
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/6c0-o/6c0-o/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <br/><br/>
+</div>
 
-🌟 Working on:
+![s](https://count.getloli.com/get/@6c0-o?theme=rule34)
+<h2>Stats</h2>
+<br>
+<div align="center">
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=6c0-o&theme=dracula&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=6c0-o&layout=compact&theme=dracula&hide_border=true"" />
+  <br/><br/>
+</div>
 
-- Pixal V3
-- Heiwa'Stream V2
-- Heiwa World V3?
-
-## 🚀 My Discord
-I'm a full stack developer...
-
----
-
-## 🛠️ Projects
-
-| Project            | Status    | Description                       | Technology      |
-|--------------------|-----------|-----------------------------------|-----------------|
-| **Pixal V3**       | Current   | Next-gen Pixel Art tool           | Discord.js v14  |
-| **Heiwa'Stream V2**| Current   | Stream management tool            | Discord.js v14  |
-| **Heiwa'Music V1** | Current   | Music bot for Discord             | Discord.js v14  |
-| **Heiwa World V2** | Outdated  | Previous version of Heiwa World   | Discord.js v13  |
-
----
-
-## 📫 Contact Me
-
-Feel free to reach out to me on Discord if you have any questions or want to collaborate on a project!
-
----
-
-### ✨ About Me
-- Passionate about creating innovative solutions.
-- Always learning and improving my skills.
-- Love to collaborate with other developers.
-
----
-
-## 🧑‍💻 Skills
-- Full Stack Development
-- Discord Bot Development
-- JavaScript / Node.js
-- Discord.js
+<h2>Discord</h2>
+<br>
+<div align="center">
+  <a href="https://discord.com/users/953041961936359424">
+  <img src="https://lanyard.cnrad.dev/api/953041961936359424?animated=true&idleMessage=Probably%20touching%20the%20sky" />
+  </a>
+  <br/><br/><br/>
+</div>
