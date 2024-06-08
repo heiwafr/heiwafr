@@ -30,7 +30,7 @@
 <br>
 <div align="center">
   <a href="https://discord.com/users/1086606341990256650">
-  <img src="https://lanyard.cnrad.dev/api/1086606341990256650" />
+  <img src="https://lanyard.cnrad.dev/api/1086606341990256650?animated=true&idleMessage=Probably%20touching%20the%20sky" />
   </a>
   <br/><br/><br/>
 </div>
