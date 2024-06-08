@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=6c0-o.6c0-o" />
 <div>
 <br/>
-<img src="https://media.discordapp.net/attachments/1095383942565220524/1105576844952084550/banner_1.png"/>
+<img src="https://media.discordapp.net/attachments/1143659816221409311/1249070541793525831/IMG_20240608_203842.png"/>
 <br/>
 <div align="center"><img src="https://media.discordapp.net/attachments/1230310861227425823/1244735351885533324/XLqhd3E.png?ex=665631a1&is=6654e021&hm=a8097cebe6a3b049fad6fd9bb816d247997ee415649ee97ca4a53373835f3755&=&format=webp&quality=lossless&width=850&height=300"/></div>
 <br/>
