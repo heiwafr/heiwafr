@@ -1,9 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=6c0-o.6c0-o" />
 <div>
 <br/>
-<img src="https://media.discordapp.net/attachments/1143659816221409311/1249070541793525831/IMG_20240608_203842.png"/>
 <br/>
-<div align="center"><img src="https://media.discordapp.net/attachments/1230310861227425823/1244735351885533324/XLqhd3E.png?ex=665631a1&is=6654e021&hm=a8097cebe6a3b049fad6fd9bb816d247997ee415649ee97ca4a53373835f3755&=&format=webp&quality=lossless&width=850&height=300"/></div>
+<div align="center"><img src="https://media.discordapp.net/attachments/1143659816221409311/1249070541793525831/IMG_20240608_203842.png?ex=6665f717&is=6664a597&hm=da13a84181a8ee81d7dd1e9d247084a059b45def5a6b3fe2b4f1059ac80ad141&=&format=webp&quality=lossless&width=605&height=203"/></div>
 <br/>
 <h3 align="center">A French developer <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
 <div align="center">II'm currently working on Pixal V3 and Heiwa Stream V2</div>
