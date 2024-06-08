@@ -1,4 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=heiwafr" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=heiwafr" />
+</div>
+
 <div>
 <br/>
 <br/>
@@ -21,3 +24,13 @@
 | **Heiwa'Stream V2**| Current   | Stream management tool            | Discord.js v14  |
 | **Heiwa'Music V1** | Current   | Music bot for Discord             | Discord.js v14  |
 | **Heiwa World V2** | Outdated  | Previous version of Heiwa World   | Discord.js v13  |
+
+
+<h2>Discord</h2>
+<br>
+<div align="center">
+  <a href="https://discord.com/users/1086606341990256650">
+  <img src="https://lanyard.cnrad.dev/api/1086606341990256650?animated=true&idleMessage=Probably%20touching%20the%20sky" />
+  </a>
+  <br/><br/><br/>
+</div>
