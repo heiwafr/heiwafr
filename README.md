@@ -17,13 +17,46 @@
   <br/><br/>
 </div>
 
-### Projects
-| Project            | Status    | Description                       | Version         |
-|--------------------|-----------|-----------------------------------|-----------------|
-| **Pixal V3**       | Current   | Next-gen Pixel Art tool           | Discord.js v14  |
-| **Heiwa'Stream V2**| Current   | Stream management tool            | Discord.js v14  |
-| **Heiwa'Music V1** | Current   | Music bot for Discord             | Discord.js v14  |
-| **Heiwa World V2** | Outdated  | Previous version of Heiwa World   | Discord.js v13  |
+<div align="center">
+  <h2>Projects</h2>
+  <br/>
+  <table>
+    <thead>
+      <tr>
+        <th>Project</th>
+        <th>Status</th>
+        <th>Description</th>
+        <th>Version</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>Pixal V3</strong></td>
+        <td>Current</td>
+        <td>Application autour du dessin animé Ninjago</td>
+        <td>Discord.js v14</td>
+      </tr>
+      <tr>
+        <td><strong>Heiwa'Stream V2</strong></td>
+        <td>Current</td>
+        <td>Application de streaming</td>
+        <td>Discord.js v14</td>
+      </tr>
+      <tr>
+        <td><strong>Heiwa'Music V1</strong></td>
+        <td>Current</td>
+        <td>Application de musique</td>
+        <td>Discord.js v14</td>
+      </tr>
+      <tr>
+        <td><strong>Heiwa World V2</strong></td>
+        <td>Outdated</td>
+        <td>Application avec un système d'économie assez poussé</td>
+        <td>Discord.js v13</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 
 <h2>Discord</h2>
