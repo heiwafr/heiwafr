@@ -33,25 +33,25 @@
       <tr>
         <td><strong>Pixal V3</strong></td>
         <td>Current</td>
-        <td><span style="color:green">Application autour du dessin animé Ninjago</span></td>
+        <td><span style="color:green">Ninjago cartoon application</span></td>
         <td>Discord.js v14</td>
       </tr>
       <tr>
         <td><strong>Heiwa'Stream V2</strong></td>
         <td>Current</td>
-        <td><span style="color:green">Application de streaming</span></td>
+        <td><span style="color:green">Streaming application</span></td>
         <td>Discord.js v14</td>
       </tr>
       <tr>
         <td><strong>Heiwa'Music V1</strong></td>
         <td>Current</td>
-        <td><span style="color:green">Application de musique</span></td>
+        <td><span style="color:green">Music application</span></td>
         <td>Discord.js v14</td>
       </tr>
       <tr>
         <td><strong>Heiwa World V2</strong></td>
         <td>Outdated</td>
-        <td><span style="color:red">Application avec un système d'économie assez poussé</span></td>
+        <td><span style="color:red">Application with advanced economy system</span></td>
         <td>Discord.js v13</td>
       </tr>
     </tbody>
