@@ -5,7 +5,7 @@
 <div>
 <br/>
 <br/>
-<div align="center"><img src="https://media.discordapp.net/attachments/1143659816221409311/1249070541793525831/IMG_20240608_203842.png?ex=6665f717&is=6664a597&hm=da13a84181a8ee81d7dd1e9d247084a059b45def5a6b3fe2b4f1059ac80ad141&=&format=webp&quality=lossless&width=605&height=203"/></div>
+<div align="center"><img src="https://raw.githubusercontent.com/heiwafr/heiwafr/main/banner.png"/></div>
 <br/>
 <h3 align="center">A French developer <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
 <div align="center">II'm currently working on Pixal V3 and Heiwa Stream V2</div>
