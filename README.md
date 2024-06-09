@@ -13,7 +13,7 @@
 <h2>Commits</h2>
 <br>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/6c0-o/6c0-o/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/heiwafr/heiwafr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
   <br/><br/>
 </div>
 
