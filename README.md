@@ -8,7 +8,7 @@
 <div align="center"><img src="https://raw.githubusercontent.com/heiwafr/heiwafr/main/banner.png"/></div>
 <br/>
 <h3 align="center">A French developer <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
-<div align="center">I'm currently working on Pixal V3 and Heiwa Stream V2</div>
+<div align="center">I'm looking for development ideas</div>
 
 <div align="center">
   <h2>Commits</h2>
