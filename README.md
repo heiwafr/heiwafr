@@ -33,12 +33,6 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>Pixal V3</strong></td>
-        <td>Current</td>
-        <td><span style="color:green">Ninjago cartoon application</span></td>
-        <td>Discord.js v14</td>
-      </tr>
-      <tr>
         <td><strong>Heiwa'Stream V2</strong></td>
         <td>Current</td>
         <td><span style="color:green">Streaming application</span></td>
