@@ -40,7 +40,7 @@
       </tr>
       <tr>
         <td><strong>Heiwa'Music V1</strong></td>
-        <td>Current</td>
+        <td>Outdated</td>
         <td><span style="color:green">Music application</span></td>
         <td>Discord.js v14</td>
       </tr>
