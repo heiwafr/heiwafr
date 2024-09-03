@@ -33,7 +33,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong><del>Secret</del> Secret</strong></td>
+        <td><strong><del>Secret</del></strong></td>
         <td><span style="color:orange"><strong>In Development</strong></span></td>
         <td><span style="color:grey"><em>I can't reveal more information at the moment</em></span></td>
         <td><strong>Discord.js v14</strong></td>
