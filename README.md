@@ -26,7 +26,7 @@
     <table style="width: 100%; border-collapse: collapse;">
       <thead>
         <tr>
-          <th style="width: 25%;">Project</th>
+          <th style="width: 35%;">Project</th>
           <th style="width: 15%;">Version</th>
           <th style="width: 20%;">Status</th>
           <th style="width: 40%;">Description</th>
@@ -34,7 +34,7 @@
       </thead>
       <tbody>
         <tr>
-          <td><strong><del>Secret</del> Secret</strong></td>
+          <td><strong><del>Secret</del></strong></td>
           <td><strong>v0.1.0</strong></td>
           <td><span style="color:orange"><strong>In Development</strong></span></td>
           <td><span style="color:grey"><em>I can't reveal more information at the moment</em></span></td>
