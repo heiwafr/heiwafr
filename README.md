@@ -33,21 +33,21 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>~~SECRET~~</strong></td>
-        <td><em>In Development</em></td>
-        <td><span style="color:blue">I can't reveal more information at the moment</span></td>
-        <td><strong>Discord.js v14</strong></td>
-      </tr>
-      <tr>
-        <td><strong>Pixal (v3.0.6)</strong></td>
-        <td><em>Current</em></td>
-        <td><span style="color:green">Mini-game application with an economy system in the Ninjago theme, created for @wustudio</span></td>
+        <td><strong><del>Secret</del> Secret</strong></td>
+        <td><span style="color:orange"><strong>In Development</strong></span></td>
+        <td><span style="color:grey"><em>I can't reveal more information at the moment</em></span></td>
         <td><strong>Discord.js v14</strong></td>
       </tr>
       <tr>
         <td><strong>Chill Utility (v0.2.1)</strong></td>
-        <td><em>In Development</em></td>
-        <td><span style="color:orange">A "Utility" application with welcome/multiwelcome, vanity, bump reminder (6 bots), greet, level system, quick question, created for @lord_03</span></td>
+        <td><span style="color:orange"><strong>In Development</strong></span></td>
+        <td><span style="color:grey"><em>An "Utility" application featuring welcome/multi-welcome messages, vanity, bump reminder (6 bots), greetings, level system, quick questions, created for @lord_03</em></span></td>
+        <td><strong>Discord.js v14</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Pixal (v3.0.6)</strong></td>
+        <td><span style="color:green"><strong>Current</strong></span></td>
+        <td><span style="color:green"><em>Mini-game application with an economy theme based on Ninjago, created for @wustudio</em></span></td>
         <td><strong>Discord.js v14</strong></td>
       </tr>
     </tbody>
