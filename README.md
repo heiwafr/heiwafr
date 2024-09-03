@@ -22,33 +22,33 @@
 <div align="center">
   <h2>Projects</h2>
   <br/>
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <thead>
       <tr>
-        <th>Project</th>
-        <th>Status</th>
-        <th>Description</th>
-        <th>Version</th>
+        <th style="width: 25%; padding: 10px; border: 1px solid #ddd;">Project</th>
+        <th style="width: 20%; padding: 10px; border: 1px solid #ddd;">Status</th>
+        <th style="width: 40%; padding: 10px; border: 1px solid #ddd;">Description</th>
+        <th style="width: 15%; padding: 10px; border: 1px solid #ddd;">Version</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td><strong><del>Secret</del></strong></td>
-        <td><span style="color:orange"><strong>In Development</strong></span></td>
-        <td><span style="color:grey"><em>I can't reveal more information at the moment</em></span></td>
-        <td><strong>Discord.js v14</strong></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><strong><del>Secret</del></strong></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><span style="color:orange"><strong>In Development</strong></span></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><span style="color:grey"><em>I can't reveal more information at the moment</em></span></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><strong>Discord.js v14</strong></td>
       </tr>
       <tr>
-        <td><strong>Chill Utility (v0.2.1)</strong></td>
-        <td><span style="color:orange"><strong>In Development</strong></span></td>
-        <td><span style="color:grey"><em>An "Utility" application featuring welcome/multi-welcome messages, vanity, bump reminder (6 bots), greetings, level system, quick questions, created for @lord_03</em></span></td>
-        <td><strong>Discord.js v14</strong></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><strong>Chill Utility (v0.2.1)</strong></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><span style="color:orange"><strong>In Development</strong></span></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><span style="color:grey"><em>An "Utility" application featuring welcome/multi-welcome messages, vanity, bump reminder (6 bots), greetings, level system, quick questions, created for @lord_03</em></span></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><strong>Discord.js v14</strong></td>
       </tr>
       <tr>
-        <td><strong>Pixal (v3.0.6)</strong></td>
-        <td><span style="color:green"><strong>Current</strong></span></td>
-        <td><span style="color:green"><em>Mini-game application with an economy theme based on Ninjago, created for @wustudio</em></span></td>
-        <td><strong>Discord.js v14</strong></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><strong>Pixal (v3.0.6)</strong></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><span style="color:green"><strong>Current</strong></span></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><span style="color:green"><em>Mini-game application with an economy theme based on Ninjago, created for @wustudio</em></span></td>
+        <td style="padding: 10px; border: 1px solid #ddd;"><strong>Discord.js v14</strong></td>
       </tr>
     </tbody>
   </table>
