@@ -23,10 +23,10 @@
   <div align="center">
     <h2>Projects</h2>
     <br/>
-    <table style="width: 100%; border-collapse: collapse;">
+    <table style="width: 110%; border-collapse: collapse;">
       <thead>
         <tr>
-          <th style="width: 35%;">Project</th>
+          <th style="width: 25%;">Project</th>
           <th style="width: 15%;">Version</th>
           <th style="width: 20%;">Status</th>
           <th style="width: 40%;">Description</th>
