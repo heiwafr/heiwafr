@@ -9,7 +9,7 @@
   </div>
   <br/>
   <h3 align="center">A French developer <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/></h3>
-  <div align="center">I'm looking for development ideas</div>
+  <div align="center">on several projects at the same time 😅</div>
 
   <div align="center">
     <h2>Commits</h2>
@@ -23,13 +23,13 @@
   <div align="center">
     <h2>Projects</h2>
     <br/>
-    <table style="width: 110%; border-collapse: collapse;">
+    <table style="width: 100%; border-collapse: collapse;">
       <thead>
         <tr>
-          <th style="width: 25%;">Project</th>
-          <th style="width: 15%;">Version</th>
-          <th style="width: 20%;">Status</th>
-          <th style="width: 40%;">Description</th>
+          <th style="width: 25%; white-space: nowrap;">Project</th>
+          <th style="width: 15%; white-space: nowrap;">Version</th>
+          <th style="width: 20%; white-space: nowrap;">Status</th>
+          <th style="width: 40%; white-space: nowrap;">Description</th>
         </tr>
       </thead>
       <tbody>
