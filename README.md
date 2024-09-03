@@ -33,22 +33,22 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>Heiwa'Stream V2</strong></td>
-        <td>Current</td>
-        <td><span style="color:green">Streaming application</span></td>
-        <td>Discord.js v14</td>
+        <td><strong>~~SECRET~~</strong></td>
+        <td><em>In Development</em></td>
+        <td><span style="color:blue">I can't reveal more information at the moment</span></td>
+        <td><strong>Discord.js v14</strong></td>
       </tr>
       <tr>
-        <td><strong>Heiwa'Music V1</strong></td>
-        <td>Outdated</td>
-        <td><span style="color:green">Music application</span></td>
-        <td>Discord.js v14</td>
+        <td><strong>Pixal (v3.0.6)</strong></td>
+        <td><em>Current</em></td>
+        <td><span style="color:green">Mini-game application with an economy system in the Ninjago theme, created for @wustudio</span></td>
+        <td><strong>Discord.js v14</strong></td>
       </tr>
       <tr>
-        <td><strong>Heiwa World V2</strong></td>
-        <td>Outdated</td>
-        <td><span style="color:red">Application with advanced economy system</span></td>
-        <td>Discord.js v13</td>
+        <td><strong>Chill Utility (v0.2.1)</strong></td>
+        <td><em>In Development</em></td>
+        <td><span style="color:orange">A "Utility" application with welcome/multiwelcome, vanity, bump reminder (6 bots), greet, level system, quick question, created for @lord_03</span></td>
+        <td><strong>Discord.js v14</strong></td>
       </tr>
     </tbody>
   </table>
