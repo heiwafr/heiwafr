@@ -8,7 +8,7 @@
     <img src="https://raw.githubusercontent.com/heiwafr/heiwafr/main/banner.png"/>
   </div>
   <br/>
-  <h3 align="center">Profile de Heiwa <img src="https://cdn.discordapp.com/emojis/1233113759103451207.webp" alt="." width="20" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20" height="15"/></h3>
+  <h3 align="center">Profile de Heiwa <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20" height="15"/></h3>
   <div align="center">Créateur de Chill Utility, et Lumira.</div>
 
   <div align="center">
