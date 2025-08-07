@@ -9,7 +9,7 @@
   </div>
   <br/>
   <h3 align="center">Profile de Heiwa <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="French Flag" width="20" height="15"/></h3>
-  <div align="center">Créateur de Chill Utility, et Lumira.</div>
+  <div align="center">Développeur de Chill Utility, et Crazy Tool.</div>
 
   <div align="center">
     <h2>Commits</h2>
