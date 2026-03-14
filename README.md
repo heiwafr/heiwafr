@@ -10,9 +10,7 @@
 
 <div align="center">
 
-### :man_technologist: A propos de moi
-
-Je suis un **développeur français** passionné par la création de projets et d'outils.
+### Build. Break. Learn. Repeat.
 
 :rocket: Je gère actuellement **Heiwa'Stream** et **Pixal**.
 
