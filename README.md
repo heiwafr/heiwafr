@@ -26,7 +26,7 @@ Je suis un **développeur français** passionné par la création de projets et 
 
 ### :hammer_and_wrench: Technologies & Outils
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,html,css,react,discord,git,github,vscode&perline=5" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,ts,nodejs,html,css,react,discord,redis,postgres,mysql,docker,git,github,vscode&perline=7" alt="Tech Stack" />
 
 </div>
 
