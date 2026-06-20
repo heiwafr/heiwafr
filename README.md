@@ -14,7 +14,7 @@
 
 :rocket: Je gère actuellement **Heiwa'Stream** et **Pixal**.
 
-:scroll: J'ai anciennement travaillé pour **Chill Utility** (devenu **Crazy Tool**), **LegPixal** et **Zane** (de Zane Ninjago).
+:scroll: J'ai anciennement travaillé pour **Chill Utility**, **LegPixal** et **Zane** (de Zane Ninjago).
 
 </div>
 
